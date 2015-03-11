@@ -21,3 +21,7 @@ Recover from accidental strip
 ## Regex
 Regex Crossword:
 [regexcrossword.com](http://regexcrossword.com/)
+
+## Tech and Gender
+Cultural Capital and nerds as outsiders:
+[www.medium.com/message](https://medium.com/message/no-nate-brogrammers-may-not-be-macho-but-thats-not-all-there-is-to-it-2f1fe84c5c9b)
