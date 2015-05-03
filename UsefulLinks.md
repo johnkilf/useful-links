@@ -18,6 +18,16 @@ Fixing bad merges:
 Recover from accidental strip
 [www.selenic.com](http://www.selenic.com/pipermail/mercurial/2011-July/039016.html)
 
+## Raspberry Pi Tutorials
+Set up Pi as low powered Network Storage Box
+[www.howtogeek.com](http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/)
+
+Set up Pi as torrent Box
+[www.howtogeek.com](http://www.howtogeek.com/142044/how-to-turn-a-raspberry-pi-into-an-always-on-bittorrent-box/)
+
+Backup Pi Installation
+[raspberrypi.stackexchange.com](http://raspberrypi.stackexchange.com/questions/311/how-do-i-backup-my-raspberry-pi)
+
 ## Regex
 Regex Crossword:
 [regexcrossword.com](http://regexcrossword.com/)
