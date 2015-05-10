@@ -22,6 +22,10 @@ Fixing bad merges:
 Recover from accidental strip
 [www.selenic.com](http://www.selenic.com/pipermail/mercurial/2011-July/039016.html)
 
+## Organisational Politics
+Estimation Games
+[http://www.thomsett.com.au](http://www.thomsett.com.au/library/item/estimation-games)
+
 ## Raspberry Pi Tutorials
 Set up Pi as low powered Network Storage Box
 [www.howtogeek.com](http://www.howtogeek.com/139433/how-to-turn-a-raspberry-pi-into-a-low-power-network-storage-device/)
