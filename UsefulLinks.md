@@ -1,5 +1,9 @@
 # Useful Links
 
+## Architecture
+Business logic in domain model or in service layer:
+[StackExchange](http://programmers.stackexchange.com/questions/218011/how-accurate-is-business-logic-should-be-in-a-service-not-in-a-model)
+
 ## Bash
 Best Bash Guide:
 [Greg's Wiki](http://mywiki.wooledge.org/BashGuide)
