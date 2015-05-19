@@ -8,6 +8,10 @@ Business logic in domain model or in service layer:
 Best Bash Guide:
 [Greg's Wiki](http://mywiki.wooledge.org/BashGuide)
 
+## Gradle
+Quickstart Guide:
+[spring.io](http://spring.io/guides/gs/gradle/)
+
 ## Java
 How JVM GC works:
 [mechanical-sympathy.blogspot.ie](http://mechanical-sympathy.blogspot.ie/2013/07/java-garbage-collection-distilled.html)
