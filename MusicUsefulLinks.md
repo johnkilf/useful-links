@@ -6,3 +6,6 @@ Learning Music Theory:
 
 Exercises Including Ear Training
 [musictheory.net](http://www.musictheory.net/exercises)
+
+Learning Drum Machine Loops
+[soundonsound.com](https://www.soundonsound.com/sos/feb98/articles/rythm.html)
