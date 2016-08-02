@@ -43,6 +43,9 @@ Set up Pi as torrent Box
 Backup Pi Installation
 [raspberrypi.stackexchange.com](http://raspberrypi.stackexchange.com/questions/311/how-do-i-backup-my-raspberry-pi)
 
+Automount HDD
+[TechJaWab.com](http://www.techjawab.com/2013/06/how-to-setup-mount-auto-mount-usb-hard.html)
+
 ## Regex
 Regex Crossword:
 [regexcrossword.com](http://regexcrossword.com/)

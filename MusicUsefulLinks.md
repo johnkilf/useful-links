@@ -9,3 +9,14 @@ Exercises Including Ear Training
 
 Learning Drum Machine Loops
 [soundonsound.com](https://www.soundonsound.com/sos/feb98/articles/rythm.html)
+
+Layering
+[youtube](https://www.youtube.com/watch?v=WORBu_Yqsjk&list=PLnYFZbm0f2qsVhwdnDfKi2aLad12ec4cF)
+
+## Sheets
+Good site for sheets
+[annemievanriel.be](http://www.annemievanriel.be/site/Sheets.html)
+
+## Samples
+Animals and birds
+[conrnell lab of ornithology](http://macaulaylibrary.org/)
